@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Flores\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEMESTRE I-2022\\TECNOLOGIAS WEB\\Practica2\\Prac2\\Prac2\\Prac2.csproj",
+      "projectUniqueName": "C:\\Users\\Flores\\Source\\Repos\\Practica2\\Prac2\\Prac2.csproj",
       "projectName": "Prac2",
-      "projectPath": "D:\\SEMESTRE I-2022\\TECNOLOGIAS WEB\\Practica2\\Prac2\\Prac2\\Prac2.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SEMESTRE I-2022\\TECNOLOGIAS WEB\\Practica2\\Prac2\\Prac2\\obj\\",
+      "projectPath": "C:\\Users\\Flores\\Source\\Repos\\Practica2\\Prac2\\Prac2.csproj",
+      "packagesPath": "C:\\Users\\Flores\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Flores\\Source\\Repos\\Practica2\\Prac2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -59,12 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -73,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
