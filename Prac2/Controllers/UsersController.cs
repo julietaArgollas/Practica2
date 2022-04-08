@@ -11,5 +11,28 @@ namespace Prac2.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        [HttpGet]
+        public IActionResult GetUsers()
+        {
+            return Ok();
+        }
+
+        [HttpPost]
+        public IActionResult PostUser()
+        {
+            return Ok();
+        }
+
+        [HttpPut]
+        public IActionResult PutUser()
+        {
+            return Ok();
+        }
+
+        [HttpDelete]
+        public IActionResult DeleteUser()
+        {
+            return Ok();
+        }
     }
 }
